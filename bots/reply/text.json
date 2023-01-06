@@ -1,0 +1,25 @@
+{
+    "language_prompt": "ቋንቋ ይምረጡ / Select language ",
+    "lang_response":{
+        "Amharic": "በተሳካ ሁኔታ ተመርጧል ✔️",
+        "English":"successfully setted ✔️"
+    },
+    "status":{
+        "Amharic":"አሁን ያሉን ተጠቃሚዎች {} ናቸው።",
+        "English":"We have currently {} users."
+    },
+    "feedback":"User: [{}](tg://user?id={}) \nId : `{}` \nMessage: {}",
+    "feedback_reply":{
+        "Amharic":"አስተያየት ስለ ሰጡን አመሰግናለው ወደ አስተዳዳሪው መልዕክቶ ተልኳል ✔️",
+        "English":"Thanks for giving feedback the feedback is sent to the admin ✔️"
+    },
+    "admin_reply":{
+        "Amharic":"ከ አስተዳዳሪው [{}](tg://user?id={}) \nይህ መልዕክት ደርሶታል: `{}`",
+        "English":"From admin [{}](tg://user?id={}) \nRecieved this message: `{}`"
+    },
+    "to_admin":"successfully sent ✔️",
+    "warning" : {
+        "English" : "You have to use this format \n`At least the first 2 alphabets of the subject name |Grade|Page` ",
+        "Amharic" : "በዚህ መልኩ መጻፍ አለቦት \n`የትምህችት አይነት ቢያንስ ከ ስሙ የመጀመሪያ ሁለቱን ፊደላት|ክፍል|ገጽ` "
+    }
+}

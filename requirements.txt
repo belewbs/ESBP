@@ -1,0 +1,5 @@
+beautifulsoup4
+pyrogram
+tgcrypto
+pymongo
+dnspython
