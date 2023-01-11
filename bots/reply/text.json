@@ -19,8 +19,8 @@
     },
     "to_admin":"successfully sent ✔️",
     "warning" : {
-        "English" : "You have to use this format \n`At least the first 2 alphabets of the subject name |Grade|Page` ",
-        "Amharic" : "በዚህ መልኩ መጻፍ አለቦት \n`የትምህችት አይነት ቢያንስ ከ ስሙ የመጀመሪያ ሁለቱን ፊደላት|ክፍል|ገጽ` "
+        "English" : "You have to use this format \n`At least the first 2 alphabets of the subject name ,Grade,Page` ",
+        "Amharic" : "በዚህ መልኩ መጻፍ አለቦት \n`የትምህችት አይነት ቢያንስ ከ ስሙ የመጀመሪያ ሁለቱን ፊደላት,ክፍል,ገጽ` "
     },
     "get_sub":{
         "Amharic":"የመጽሃፉን አይነት ይምረጡ 👇",
@@ -31,8 +31,8 @@
         "English":"Choose your grade 👇"
     },
     "get_page":{
-        "Amharic":"የፈለጉትን ገጽ ይጻፉ :\nከ አንድ በላይ ፎቶ ከፈለጉ በዚህ መልክ ይሳፉ \nየመጀመሪያውን ገጽ  - የመጨሻውን ገጽ \nለምሳሌ ፡ 5 - 10",
-        "English":"Write down the page :\n If you want more than one page you can send your text by this format \nFirst page of your text - last page of your text For example : 5 - 10 "
+        "Amharic":"የፈለጉትን ገጽ ይጻፉ :\nከ አንድ በላይ ፎቶ ከፈለጉ በዚህ መልክ ይሳፉ \nየመጀመሪያውን ገጽ  - የመጨሻውን ገጽ \nለምሳሌ ፡ 5 - 9",
+        "English":"Write down the page :\n If you want more than one page you can send your text by this format \nFirst page of your text - last page of your text For example : 5 - 9 "
     },
     "get_page_holder":{
         "Amharic" : "ገጹን እዚህ ላይ ይጻፉልን",
@@ -47,8 +47,8 @@
         "English":"The book only contain {} pages" 
     },
     "hyphen_error":{
-        "Amharic": "በዚህ መልክ መጻፎን ያረጋግጡ \nየመጀመሪያውን ገጽ  - የመጨሻውን ገጽ \nለምሳሌ ፡ 5 - 10",
-        "English":"Make sure you use this formats: \nFirst page of your text - Last page of your text \nFor example : 5 - 10"
+        "Amharic": "በዚህ መልክ መጻፎን ያረጋግጡ \nየመጀመሪያውን ገጽ  - የመጨሻውን ገጽ \nለምሳሌ ፡ 5 - 9",
+        "English":"Make sure you use this formats: \nFirst page of your text - Last page of your text \nFor example : 5 - 9"
     },
     "done":{
         "Amharic":"ጨርሷል ✔️",
