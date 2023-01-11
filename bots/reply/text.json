@@ -14,12 +14,44 @@
         "English":"Thanks for giving feedback the feedback is sent to the admin ✔️"
     },
     "admin_reply":{
-        "Amharic":"ከ አስተዳዳሪው [{}](tg://user?id={}) \nይህ መልዕክት ደርሶታል: `{}`",
+        "Amharic":"ከ አስተዳዳሪው [{}](tg:/s/user?id={}) \nይህ መልዕክት ደርሶታል: `{}`",
         "English":"From admin [{}](tg://user?id={}) \nRecieved this message: `{}`"
     },
     "to_admin":"successfully sent ✔️",
     "warning" : {
         "English" : "You have to use this format \n`At least the first 2 alphabets of the subject name |Grade|Page` ",
         "Amharic" : "በዚህ መልኩ መጻፍ አለቦት \n`የትምህችት አይነት ቢያንስ ከ ስሙ የመጀመሪያ ሁለቱን ፊደላት|ክፍል|ገጽ` "
+    },
+    "get_sub":{
+        "Amharic":"የመጽሃፉን አይነት ይምረጡ 👇",
+        "English":"Choose the book 👇"
+    },
+    "get_grade":{
+        "Amharic":"ክፍሎትን ይምረጡ 👇",
+        "English":"Choose your grade 👇"
+    },
+    "get_page":{
+        "Amharic":"የፈለጉትን ገጽ ይጻፉ :\nከ አንድ በላይ ፎቶ ከፈለጉ በዚህ መልክ ይሳፉ \nየመጀመሪያውን ገጽ  - የመጨሻውን ገጽ \nለምሳሌ ፡ 5 - 10",
+        "English":"Write down the page :\n If you want more than one page you can send your text by this format \nFirst page of your text - last page of your text For example : 5 - 10 "
+    },
+    "get_page_holder":{
+        "Amharic" : "ገጹን እዚህ ላይ ይጻፉልን",
+        "English" : "Write your text here"
+    },
+    "get_page_max":{
+        "Amharic":"ይቅርታ ከ 5 በላይ ገጽ በ ጅምላ መላክ አይችልም",
+        "English":"Sorry the bot can't send above 5 pages at once"
+    },
+    "page_max":{
+        "Amharic":"መጽሃፉ የ ያዘው {} ገጾችን ነው",
+        "English":"The book only contain {} pages" 
+    },
+    "hyphen_error":{
+        "Amharic": "በዚህ መልክ መጻፎን ያረጋግጡ \nየመጀመሪያውን ገጽ  - የመጨሻውን ገጽ \nለምሳሌ ፡ 5 - 10",
+        "English":"Make sure you use this formats: \nFirst page of your text - Last page of your text \nFor example : 5 - 10"
+    },
+    "done":{
+        "Amharic":"ጨርሷል ✔️",
+        "English":"Done✔️"
     }
 }

@@ -19,5 +19,5 @@ def get_id(subject,grade,page):
 	max_page = data[grade][subject][1]
 	
 	if page != 0 and page <= max_page:
-		return (book_id-1) + page
-	return False
+		return [True,(book_id-1) + page]
+	return [False,data[grade][subject][1]]
